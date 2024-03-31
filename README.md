@@ -40,7 +40,7 @@ Introducing "Early Forest Fire Prediction" – a groundbreaking project leveragi
 In the event of a confirmed fire, instant alerts are dispatched to the forest department, ensuring swift response. Simultaneously, our GSM module relays the precise fire location, expediting the rescue efforts. This comprehensive solution not only facilitates early detection but also employs cutting-edge technologies like OpenCV and YOLOv5 for rapid and accurate fire confirmation. A fusion of environmental monitoring, machine learning, and real-time communication, our system is a vital step towards proactive forest preservation. Join us in revolutionizing wildfire prevention for a greener future.
 
 ### Android UI
-![UI](https://github.com/your_username/your_repository/raw/main/acv.jpg)
+![UI](https://github.com/sarthak98765/Flare-Scan/blob/main/acv.jpg)
 
 ### Why our Project:
 - **Scalability:** Seamlessly expandable, our modular forest fire detection system adapts to diverse environments, extending coverage and staying ahead of evolving threats for agile, responsive protection.
