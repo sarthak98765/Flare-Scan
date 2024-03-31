@@ -16,7 +16,7 @@ The Early Forest Fire Prediction project is a comprehensive system designed to p
 - **Wireless Sensor Network (WSN)**: Developing systems based on WSN for forest fire identification, predominantly relying on temperature and humidity parameters, but overlooking other influential factors like wind.
 
 ## Workflow
-![Workflow](C:/Users/Sarthak Aggarwal/Downloads/Telegram Desktop/photo_2024-03-31_09-13-43.jpg)
+![Workflow](https://github.com/sarthak98765/Flare-Scan/blob/main/photo_2024-03-31_09-13-43.jpg)
 
 ## Implementation
 ### Hardware Components:
