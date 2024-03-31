@@ -47,6 +47,17 @@ In the event of a confirmed fire, instant alerts are dispatched to the forest de
 - **Feasibility:** Our cost-effective solution integrates accessible technologies, ensuring practicality and affordability for stakeholders. Simple, efficient, and accessible—empowering communities to safeguard forests effectively.
 - **Long-Term Vision:** Beyond detection, our project fosters sustainable forest management, empowering stakeholders to shape policy and enhance ecosystem resilience for a brighter, greener future.
 
+## Models
+### Sensor-model
+![Sensor-Model](https://github.com/sarthak98765/Flare-Scan/blob/main/images/sensor_model.png)
+
+### Camera-model
+![Camera-model](https://github.com/sarthak98765/Flare-Scan/blob/main/images/camera_model.png)
+
+### FWI Score-model
+![FWI_score](https://github.com/sarthak98765/Flare-Scan/blob/main/images/fwi_model.png)
+
+
 ### Challenges we faced:
 - **Data Accuracy:** Ensuring accurate and reliable data from IoT sensors in diverse environmental conditions.
 - **Cost and Accessibility:** Procuring and deploying a sufficient number of sensors across vast forested areas can be costly and logistically challenging. Ensuring availability of sensors within budget constraints while maintaining coverage over critical areas poses a significant challenge.
